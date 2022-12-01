@@ -1,0 +1,8 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/hacker123454/x/main/Pop_Cat.txt'),true))()
+-- E = sit Q = Pop
+-- R = Wave
+-- T = Punch
+-- F = idk
+-- G = punch from black
+-- Z = yes
+-- X = No
