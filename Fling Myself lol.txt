@@ -1,2 +1,0 @@
-player = game.Players.LocalPlayer
-player.Character.HumanoidRootPart.Velocity = Vector3.new(500000,500000,500000)
