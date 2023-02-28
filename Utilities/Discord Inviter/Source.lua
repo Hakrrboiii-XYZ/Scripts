@@ -7,7 +7,7 @@ local CG = game:GetService("CoreGui")
 -- Variables
 
 local SelfModules = {
-	UI = loadstring(game:HttpGet("https://scripts.hakrrboiii.xyz/Utilities/main/UI.lua"))(),
+	UI = loadstring(game:HttpGet("https://scripts.hakrrboiii.xyz/Utilities/UI.lua"))(),
 	Functions = loadstring(game:HttpGet("https://scripts.hakrrboiii.xyz/Utilities/Functions.lua"))(),
 }
 
